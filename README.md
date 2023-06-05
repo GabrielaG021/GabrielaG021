@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @GabrielaG021
 - 👀 I’m interested in creating mobile applications.
-- 🌱 I’m currently learning all about software engineering at Florida Gulf Coast University
+- 🌱 I’m currently a new Software Engineer grad at Florida Gulf Coast University.
 - 💞️ I’m looking to collaborate on making every day tasks easier.
-- 📫 How to reach me ...
+- 📫 How to reach me at my email -> softengineer.ggutierrez@gmail.com
 
 <!---
 GabrielaG021/GabrielaG021 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
